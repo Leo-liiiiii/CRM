@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/bean/Dept.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/bean/Level.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/bean/Position.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/mapper/DeptMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/mapper/LevelMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/emp/mapper/PositionMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/pro/mapper/AnalysisMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/pro/mapper/AttachmentMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/pro/mapper/FunctionMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/pro/mapper/ModuleMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ujiuye/pro/mapper/ProjectMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/DeptMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/LevelMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/PositionMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ztree-demo.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
